@@ -43,7 +43,7 @@ Example:
 
 ## ⚙️ Workflow Diagram
 
-![n8n Invoice Processing Workflow](workflow.png)
+![n8n Invoice Processing Workflow](/workflow.png)
 
 ## 🤖 AI Agent
 
