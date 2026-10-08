@@ -1,0 +1,15 @@
+ABC TRADERS
+Invoice
+
+Invoice Number: INV-1001
+Invoice Date: 08-10-2026
+
+Vendor: ABC Traders
+Customer: XYZ Company
+
+Description: Software Services
+Amount: ₹15,000
+Tax: ₹2,700
+Total Amount: ₹17,700
+
+Payment Status: Pending
